@@ -369,6 +369,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: a76a6c8537c3b1647971485b5cf78a0b, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: a76a6c8537c3b1647971485b5cf78a0b, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: -876546973899608171, guid: 8255818d5e4829b4ab72ee41737d8139, type: 3}
     - target: {fileID: 919132149155446097, guid: a76a6c8537c3b1647971485b5cf78a0b, type: 3}
       propertyPath: m_Name
       value: SM_ENV_WaterPlane
