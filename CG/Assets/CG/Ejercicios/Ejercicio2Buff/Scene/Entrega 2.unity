@@ -19790,55 +19790,68 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: b5dc5c9e3ddb20d46a63448ff29f4498, type: 3}
+    - target: {fileID: -8679921383154817045, guid: b5dc5c9e3ddb20d46a63448ff29f4498,
+        type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b5dc5c9e3ddb20d46a63448ff29f4498, type: 3}
+    - target: {fileID: -8679921383154817045, guid: b5dc5c9e3ddb20d46a63448ff29f4498,
+        type: 3}
       propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b5dc5c9e3ddb20d46a63448ff29f4498, type: 3}
+    - target: {fileID: -8679921383154817045, guid: b5dc5c9e3ddb20d46a63448ff29f4498,
+        type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b5dc5c9e3ddb20d46a63448ff29f4498, type: 3}
+    - target: {fileID: -8679921383154817045, guid: b5dc5c9e3ddb20d46a63448ff29f4498,
+        type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b5dc5c9e3ddb20d46a63448ff29f4498, type: 3}
+    - target: {fileID: -8679921383154817045, guid: b5dc5c9e3ddb20d46a63448ff29f4498,
+        type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b5dc5c9e3ddb20d46a63448ff29f4498, type: 3}
+    - target: {fileID: -8679921383154817045, guid: b5dc5c9e3ddb20d46a63448ff29f4498,
+        type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b5dc5c9e3ddb20d46a63448ff29f4498, type: 3}
+    - target: {fileID: -8679921383154817045, guid: b5dc5c9e3ddb20d46a63448ff29f4498,
+        type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b5dc5c9e3ddb20d46a63448ff29f4498, type: 3}
+    - target: {fileID: -8679921383154817045, guid: b5dc5c9e3ddb20d46a63448ff29f4498,
+        type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b5dc5c9e3ddb20d46a63448ff29f4498, type: 3}
+    - target: {fileID: -8679921383154817045, guid: b5dc5c9e3ddb20d46a63448ff29f4498,
+        type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b5dc5c9e3ddb20d46a63448ff29f4498, type: 3}
+    - target: {fileID: -8679921383154817045, guid: b5dc5c9e3ddb20d46a63448ff29f4498,
+        type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: b5dc5c9e3ddb20d46a63448ff29f4498, type: 3}
+    - target: {fileID: 919132149155446097, guid: b5dc5c9e3ddb20d46a63448ff29f4498,
+        type: 3}
       propertyPath: m_Name
       value: Strong Gesture (1)
       objectReference: {fileID: 0}
-    - target: {fileID: 5866666021909216657, guid: b5dc5c9e3ddb20d46a63448ff29f4498, type: 3}
+    - target: {fileID: 5866666021909216657, guid: b5dc5c9e3ddb20d46a63448ff29f4498,
+        type: 3}
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: c955b72e444207d419444bd15aba79e2, type: 2}
-    - target: {fileID: 5866666021909216657, guid: b5dc5c9e3ddb20d46a63448ff29f4498, type: 3}
+    - target: {fileID: 5866666021909216657, guid: b5dc5c9e3ddb20d46a63448ff29f4498,
+        type: 3}
       propertyPath: m_WarningMessage
       value: 
       objectReference: {fileID: 0}
@@ -24829,7 +24842,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 4d73bd3160108bc478e9079619988683, type: 2}
+  - {fileID: 2100000, guid: 4b350d26b5ac62e47ae608a28d374e89, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
